@@ -1,0 +1,386 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/forPendingIntentDaily"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/rounded_background_for_widget">
+
+
+    <RelativeLayout
+        android:id="@+id/rellayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/ic_gps"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ic_gps" />
+
+
+        <TextView
+            android:id="@+id/txtLocalPlaceForDailyWidget"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/ic_gps"
+            android:text="Baku"
+            android:textColor="#fff"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_weather_stiuationDailyWidget"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:text="Clear sky"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/rellayout3"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_below="@+id/rellayout1">
+
+        <TextClock
+            android:id="@+id/textClock"
+            android:layout_width="150dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/shadow"
+            android:format12Hour="null"
+            android:format24Hour="kk:mm"
+            android:gravity="center_vertical"
+            android:textColor="#fff"
+            android:textSize="32sp" />
+
+
+        <ImageView
+            android:id="@+id/weather_situationForDailyWidget"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/icon_01d" />
+
+        <TextView
+            android:id="@+id/max_weather_valueForDailyWidget"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="10dp"
+            android:layout_toLeftOf="@+id/weather_situationForDailyWidget"
+            android:fontFamily="@font/shadow"
+            android:text="20°"
+            android:textColor="#fff"
+            android:textSize="12sp" />
+
+
+        <TextView
+            android:id="@+id/min_weather_valueForDailyWidget"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="10dp"
+            android:layout_toLeftOf="@+id/weather_situationForDailyWidget"
+            android:fontFamily="@font/shadow"
+            android:text="20°"
+            android:textColor="#fff"
+            android:textSize="12sp" />
+
+
+        <TextView
+            android:id="@+id/weather_valueForDailyWidget"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/max_weather_valueForDailyWidget"
+            android:fontFamily="@font/shadow"
+            android:text="20°"
+            android:textColor="#fff"
+            android:textSize="20sp" />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/rellayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rellayout3"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp">
+
+        <TextView
+            android:id="@+id/txt_calendar_forDailyWidget"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="Thursday, October 25"
+            android:textColor="#fff"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/txt_uv_indexDailyWidget"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:text="Wind speed: 10m/sec"
+            android:textColor="#fff"
+            android:textSize="12sp" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rellayout2">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="5">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true">
+
+                    <TextView
+                        android:id="@+id/txt_week_name_forDailyWidget1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:text="THU"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:textSize="14sp" />
+
+                    <ImageView
+                        android:id="@+id/stiuation_image_for_dailyWidget1"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/txt_week_name_forDailyWidget1"
+                        android:layout_centerHorizontal="true"
+                        android:src="@drawable/sun" />
+
+                    <TextView
+                        android:id="@+id/txt_weather_value_DetailDailyWidget1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/stiuation_image_for_dailyWidget1"
+                        android:layout_centerHorizontal="true"
+                        android:text="12/9"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:textSize="11sp" />
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true">
+
+                    <TextView
+                        android:id="@+id/txt_week_name_forDailyWidget2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:text="THU"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:textSize="14sp" />
+
+                    <ImageView
+                        android:id="@+id/stiuation_image_for_dailyWidget2"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/txt_week_name_forDailyWidget2"
+                        android:layout_centerHorizontal="true"
+                        android:src="@drawable/sun" />
+
+                    <TextView
+                        android:id="@+id/txt_weather_value_DetailDailyWidget2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/stiuation_image_for_dailyWidget2"
+                        android:layout_centerHorizontal="true"
+                        android:text="12/9"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:textSize="11sp" />
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true">
+
+                    <TextView
+                        android:id="@+id/txt_week_name_forDailyWidget3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:text="THU"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:textSize="14sp" />
+
+                    <ImageView
+                        android:id="@+id/stiuation_image_for_dailyWidget3"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/txt_week_name_forDailyWidget3"
+                        android:layout_centerHorizontal="true"
+                        android:src="@drawable/sun" />
+
+                    <TextView
+                        android:id="@+id/txt_weather_value_DetailDailyWidget3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/stiuation_image_for_dailyWidget3"
+                        android:layout_centerHorizontal="true"
+                        android:text="12/9"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:textSize="11sp" />
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true">
+
+                    <TextView
+                        android:id="@+id/txt_week_name_forDailyWidget4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:text="THU"
+                        android:textColor="@color/white"
+                        android:textSize="14sp"
+                        android:textStyle="bold"/>
+
+                    <ImageView
+                        android:id="@+id/stiuation_image_for_dailyWidget4"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/txt_week_name_forDailyWidget4"
+                        android:layout_centerHorizontal="true"
+                        android:src="@drawable/sun" />
+
+                    <TextView
+                        android:id="@+id/txt_weather_value_DetailDailyWidget4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/stiuation_image_for_dailyWidget4"
+                        android:layout_centerHorizontal="true"
+                        android:text="12/9"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:textSize="11sp" />
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true">
+
+                    <TextView
+                        android:id="@+id/txt_week_name_forDailyWidget5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:text="THU"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:textSize="14sp" />
+
+                    <ImageView
+                        android:id="@+id/stiuation_image_for_dailyWidget5"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/txt_week_name_forDailyWidget5"
+                        android:layout_centerHorizontal="true"
+                        android:src="@drawable/sun" />
+
+                    <TextView
+                        android:id="@+id/txt_weather_value_DetailDailyWidget5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/stiuation_image_for_dailyWidget5"
+                        android:layout_centerHorizontal="true"
+                        android:text="12/9"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:textSize="11sp" />
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

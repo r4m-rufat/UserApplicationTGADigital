@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal">
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/english"
+                android:textSize="18sp"
+                android:id="@+id/radio_english"
+                android:layout_margin="10dp"/>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/azerbaijani"
+                android:textSize="18sp"
+                android:layout_below="@id/radio_english"
+                android:id="@+id/radio_azerbaijani"
+                android:layout_margin="10dp"/>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/arabic"
+                android:textSize="18sp"
+                android:layout_below="@id/radio_azerbaijani"
+                android:id="@+id/radio_arabic"
+                android:layout_margin="10dp"/>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/german"
+                android:layout_alignParentRight="true"
+                android:textSize="18sp"
+                android:id="@+id/radio_german"
+                android:layout_margin="10dp"/>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/russian"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/radio_english"
+                android:textSize="18sp"
+                android:id="@+id/radio_russian"
+                android:layout_margin="10dp"/>
+
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/turkish"
+                android:layout_alignParentRight="true"
+                android:textSize="18sp"
+                android:layout_below="@id/radio_russian"
+                android:id="@+id/radio_turkish"
+                android:layout_margin="15dp"/>
+
+
+        </RelativeLayout>
+
+
+
+    </RadioGroup>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/radioGroup">
+
+        <Button
+            android:id="@+id/confirm_language"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:text="@string/confirm"
+            android:textSize="16sp"
+            android:textAllCaps="false"
+            android:textColor="@color/green" />
+
+
+        <Button
+            android:id="@+id/cancel_language"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@null"
+            android:textSize="16sp"
+            android:text="@string/cancel"
+            android:textAllCaps="false"
+            android:textColor="@color/red" />
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

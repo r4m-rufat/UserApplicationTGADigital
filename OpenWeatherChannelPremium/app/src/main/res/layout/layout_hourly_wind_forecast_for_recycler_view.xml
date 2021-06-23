@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <RelativeLayout
+            android:id="@+id/rellayout1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/txt_wind_speed_value"
+                android:textSize="14sp"
+                android:text=""
+                android:layout_marginTop="5dp"
+                android:textColor="@color/white"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/txt_wind_speed_value_c"
+                android:layout_toRightOf="@+id/txt_wind_speed_value"
+                android:textSize="14sp"
+                android:text="@string/m_sec"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/white"/>
+
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:id="@+id/image_wind_direction"
+            android:layout_below="@+id/rellayout1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/txt_hour_forWind"
+                android:layout_below="@+id/image_wind_direction"
+                android:layout_centerHorizontal="true"
+                android:text="1:00 AM"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                android:layout_marginTop="5dp"
+                />
+
+</RelativeLayout>

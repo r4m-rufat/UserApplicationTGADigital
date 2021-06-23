@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Открытый канал погоды премия</string>
+
+    <string name="daily_forecast">Ежедневный прогноз</string>
+    <string name="hourly_forecast">Почасовой прогноз</string>
+    <string name="wind_forecast">Прогноз ветра</string>
+    <string name="duration_of_the_day">Продолжительность дня: </string>
+
+    <!-- translatable words and expressions for current item -->
+    <string name="feels_like">Kак будто</string>
+    <string name="pressure">Давление</string>
+    <string name="sunrise">Восход</string>
+    <string name="sunset">Закат солнца</string>
+    <string name="humidity">Влажность</string>
+    <string name="morning">Утро</string>
+    <string name="evening">Полдень</string>
+    <string name="night">Ночь</string>
+    <string name="uv_index">УФ индекс</string>
+
+    <!-- aspects of the horizon -->
+    <string name="N">c C</string>
+    <string name="NE">c CВ</string>
+    <string name="E">c В</string>
+    <string name="SE">c ЮВ</string>
+    <string name="S">c Ю</string>
+    <string name="SW">c ЮЗ</string>
+    <string name="W">c З</string>
+    <string name="NW">c CЗ</string>
+
+    <!-- speed value km/h and m/sec -->
+    <string name="km_h">kм/ч</string>
+    <string name="m_sec">м/c</string>
+
+    <!-- wind situation according to wind speed -->
+    <string name="calm">Спокойствие</string>
+    <string name="light_air">Легкий воздух</string>
+    <string name="light_breeze">Легкий ветерок</string>
+    <string name="gentle_wind">Нежный ветер</string>
+    <string name="moderate_wind">Умеренный ветер</string>
+    <string name="fresh_breeze">Свежий ветерок</string>
+    <string name="strong_wind">Сильный ветер</string>
+    <string name="high_wind">Сильный ветер</string>
+    <string name="gale">Гейл</string>
+    <string name="severe_gale">Сильный шторм</string>
+    <string name="strong_storm">Сильный шторм</string>
+    <string name="violent_storm">Сильный шторм</string>
+    <string name="hurricane_force">Сила урагана</string>
+
+
+    <!-- aspects of the horizon according to degree for wind -->
+    <string name="w_N">C</string>
+    <string name="w_NE">CВ</string>
+    <string name="w_E">В</string>
+    <string name="w_SE">ЮВ</string>
+    <string name="w_S">Ю</string>
+    <string name="w_SW">ЮЗ</string>
+    <string name="w_W">З</string>
+    <string name="w_NW">CЗ</string>
+
+    <!-- widgets items -->
+    <string name="wind_speed">Скорость ветра</string>
+    <string name="hour">ч</string>
+    <string name="minute">м</string>
+
+    <!-- drawer layout items -->
+    <string name="add_new_location">Добавить новое место</string>
+    <string name="delete_location">Удалить местоположение</string>
+    <string name="my_location">Мое местонахождение</string>
+    <string name="settings">Настройки</string>
+    <string name="about_the_application">О приложении</string>
+    <string name="contact_us">Связаться с нами</string>
+
+
+    <!-- the items of settings page in drawer layout -->
+    <string name="temprature_settings">Настройки температуры</string>
+    <string name="wind_speed_settings">Настройки скорости ветра</string>
+    <string name="notification">Уведомление</string>
+    <string name="languages">Языки</string>
+    <string name="celcius_and_fahrenheit">Celsius and Fahrenheit</string>
+    <string name="m_km_h">Цельсия и Фаренгейта</string>
+    <string name="langauges_choices">Английский, Азербайджанский, Немецкий, Tурецкий, Pусский, Aрабский</string>
+    <string name="required_android_level">Обязательно: уведомление работает только в Android 8 и выше, и этот навык может поставить под угрозу вашу программу</string>
+
+    <!-- dialog words -->
+    <string name="confirm">Подтвердить</string>
+    <string name="cancel">Oтменить</string>
+    <string name="fahrenheit">Фаренгейт (°F)</string>
+    <string name="celsius">Цельсия (°C)</string>
+
+    <!-- about the application words and sentences -->
+    <string name="about_program">Open Weather Channel предоставляет точную и абсолютно достоверную информацию: суточные, ежечасные, течения и ветра (3 часа)!</string>
+    <string name="created_program">Создано в 2020 году, Азербайджан</string>
+    <string name="version">Версия: 8.0.13</string>
+
+    <!-- contact us words and sentences -->
+    <string name="txt_contact_us">• Если у вас возникли проблемы с программой, нажмите на ссылку ниже электронной почты и отправьте электронное письмо о программе</string>
+    <string name="openweathermap">• Если у вас есть проблемы, такие как задержки обслуживания и передачи данных, нажмите на ссылку ниже и отправьте электронное письмо об этом</string>
+
+
+    <!-- languages -->
+    <string name="english">Aнглийский</string>
+    <string name="azerbaijani">Азербайджанский</string>
+    <string name="german">Немецкий</string>
+    <string name="turkish">Tурецкий</string>
+    <string name="russian">Pусский</string>
+    <string name="arabic">Aрабский</string>
+    <string name="languages_options">Варианты языка</string>
+
+    <!-- default toast messages -->
+    <string name="check_connection">Проверьте подключение к Интернету !</string>
+    <string name="cant_delete_location">Вы не можете удалить последнее место !</string>
+
+    <!-- add new location -->
+    <string name="only_city_name">название города</string>
+    <string name="write_location">Напишите только название города и нажмите, чтобы найти !</string>
+    <string name="must_location">Вы должны записывать место !</string>
+
+    <!-- onCreateOptionMenu -->
+    <string name="help">Помогите</string>
+
+</resources>

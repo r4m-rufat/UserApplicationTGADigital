@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Open Weather Channel Premium</string>
+
+
+    <!-- translatable words and expressions -->
+    <string name="daily_forecast">Dự báo hàng ngày</string>
+    <string name="hourly_forecast">Dự báo hàng giờ</string>
+    <string name="wind_forecast">Dự báo gió</string>
+    <string name="duration_of_the_day">Thời lượng trong ngày:</string>
+
+
+    <!-- translatable words and expressions for current item -->
+    <string name="feels_like">Cảm thấy như</string>
+    <string name="pressure">Sức ép</string>
+    <string name="sunrise">Lúc mặt trời mọc</string>
+    <string name="sunset">Hoàng hôn</string>
+    <string name="humidity">Độ ẩm</string>
+    <string name="morning">Buổi sáng</string>
+    <string name="evening">Buổi chiều</string>
+    <string name="night">Đêm</string>
+    <string name="uv_index">Chỉ số tia cực tím</string>
+
+
+    <!-- aspects of the horizon -->
+    <string name="N">từ B</string>
+    <string name="NE">từ BPđ</string>
+    <string name="E">từ Pđ</string>
+    <string name="SE">từ NPđ</string>
+    <string name="S">từ N</string>
+    <string name="SW">từ NhT</string>
+    <string name="W">từ hT</string>
+    <string name="NW">từ BhT</string>
+
+    <!-- speed value km/h and m/sec -->
+    <string name="km_h">km/g</string>
+    <string name="m_sec">m/th</string>
+
+    <!-- wind situation according to wind speed -->
+    <string name="calm">Điềm tĩnh</string>
+    <string name="light_air">Không khí nhẹ</string>
+    <string name="light_breeze">Gió nhẹ</string>
+    <string name="gentle_wind">Gió nhẹ</string>
+    <string name="moderate_wind">Gió vừa phải</string>
+    <string name="fresh_breeze">Làn gió trong lành</string>
+    <string name="strong_wind">Gió mạnh</string>
+    <string name="high_wind">Gió lớn</string>
+    <string name="gale">Cơn lốc</string>
+    <string name="severe_gale">Gió giật mạnh</string>
+    <string name="strong_storm">Cơn bão mạnh</string>
+    <string name="violent_storm">Cơn bão dữ dội</string>
+    <string name="hurricane_force">Lực lượng bão</string>
+
+
+    <!-- aspects of the horizon according to degree for wind -->
+    <string name="w_N">B</string>
+    <string name="w_NE">BPđ</string>
+    <string name="w_E">Pđ</string>
+    <string name="w_SE">NPđ</string>
+    <string name="w_S">N</string>
+    <string name="w_SW">NhT</string>
+    <string name="w_W">hT</string>
+    <string name="w_NW">BhT</string>
+
+    <!-- widgets items -->
+    <string name="wind_speed">Wind speed</string>
+    <string name="hour">g</string>
+    <string name="minute">p</string>
+
+    <!-- drawer layout items -->
+    <string name="add_new_location">Thêm vị trí mới</string>
+    <string name="delete_location">Xóa vị trí</string>
+    <string name="my_location">Vị trí của tôi</string>
+    <string name="settings">Cài đặt</string>
+    <string name="about_the_application">Về ứng dụng</string>
+    <string name="contact_us">Liên hệ chúng tôi</string>
+
+    <!-- the items of settings page in drawer layout -->
+    <string name="temprature_settings">Cài đặt nhiệt độ</string>
+    <string name="wind_speed_settings">Cài đặt tốc độ gió</string>
+    <string name="notification">Thông báo</string>
+    <string name="languages">Ngôn ngữ</string>
+    <string name="celcius_and_fahrenheit">Độ C và độ F</string>
+    <string name="m_km_h">m/th và km/g</string>
+    <string name="langauges_choices">English, Azerbaijani, Arabic, German, Russian, Turkish</string>
+    <string name="required_android_level">Yêu cầu: thông báo chỉ hoạt động trong Android 8 trở lên và kỹ năng này gây rủi ro cho chương trình của bạn</string>
+
+
+    <!-- dialog words -->
+    <string name="confirm">Xác nhận</string>
+    <string name="cancel">Huỷ bỏ</string>
+    <string name="fahrenheit">Fahrenheit (°F)</string>
+    <string name="celsius">Celcius (°C)</string>
+
+    <!-- about the application words and sentences -->
+    <string name="about_program">Kênh Thời tiết Mở cung cấp cho bạn một số thông tin chính xác và hoàn toàn đúng: hàng ngày, hàng giờ, hiện tại và gió (3 giờ) !</string>
+    <string name="created_program">Được tạo vào năm 2020, Azerbaijan</string>
+    <string name="version">Phiên bản: 8.0.13</string>
+
+    <!-- contact us words and sentences -->
+    <string name="txt_contact_us">• Nếu bạn gặp sự cố với chương trình, hãy nhấp vào liên kết email bên dưới và gửi email về chương trình</string>
+    <string name="openweathermap">• Nếu bạn gặp sự cố chẳng hạn như sự chậm trễ của dịch vụ và dữ liệu, hãy nhấp vào liên kết bên dưới và gửi email về vấn đề đó</string>
+
+    <!-- languages -->
+    <string name="english">English</string>
+    <string name="azerbaijani">Azerbaijani</string>
+    <string name="german">German</string>
+    <string name="turkish">Turkish</string>
+    <string name="russian">Russian</string>
+    <string name="arabic">Arabic</string>
+    <string name="languages_options">Lựa chọn ngôn ngữ</string>
+
+    <!-- default toast messages -->
+    <string name="check_connection">Kiểm tra kết nối Internet của bạn !</string>
+    <string name="cant_delete_location">Bạn không thể xóa vị trí cuối cùng !</string>
+
+    <!-- add new location -->
+    <string name="only_city_name">tên thành phố</string>
+    <string name="write_location">Chỉ viết tên thành phố và nhấn để tìm nút !</string>
+    <string name="must_location">Bạn phải viết một địa điểm !</string>
+
+    <!-- onCreateOptionMenu -->
+    <string name="help">Cứu giúp</string>
+</resources>
