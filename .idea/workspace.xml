@@ -10,490 +10,228 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0040bab-7363-4d26-a3dd-38641eeee46f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/google-services.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/DrawerLayoutItems/Icons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/DrawerLayoutItems/Radar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/UTILS/SetupIcons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/WIDGETS/TransparentDailyWidget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/WIDGETS/TransparentWidget_2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/color/thermometer_tint_color_enabled.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable-nodpi/intro_premium_radar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/daily_widget_2_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/gradient_cloud_color.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/gradient_preciptation_color_center_side.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/gradient_preciptation_color_left_side.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/gradient_preciptation_color_right_side.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/gradient_pressure_color_center_side.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/gradient_pressure_color_left_side.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/gradient_pressure_color_right_side.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/gradient_rx1_background_color.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/gradient_rx2_background_color.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/gradient_rx3_background_color.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/gradient_temprature_color_center_side.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/gradient_temprature_color_left_side.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/gradient_temprature_color_right_side.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/gradient_wind_color_line.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/hourly_widget_4_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/ic_cloud.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/ic_cloud_enabled.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/ic_icons.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/ic_preciptation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/ic_preciptation_enabled.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/ic_pressure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/ic_pressure_enabled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/ic_thermometer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/ic_thermometer_enabled.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/ic_wind.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/ic_wind_enabled.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/icon_premium.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/icons_01d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/icons_01n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/icons_02d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/icons_02n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/icons_03d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/icons_04d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/icons_09d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/icons_10d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/icons_10n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/icons_11d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/icons_13d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/icons_50d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/more_information_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/premium_word.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/radar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/radar_line_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/weather_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/widget_01d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/widget_01n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/widget_02d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/widget_02n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/widget_03d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/widget_04d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/widget_09d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/widget_10d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/widget_10n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/widget_11d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/widget_13d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/widget_50d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/activity_icons.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/activity_radar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/layout_radar_more_information.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/transparent_daily_widget.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/transparent_widget_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/raw/radar_animation.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/xml/transparent_daily_widget_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/xml/transparent_widget_2_1_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithrufat/userapplication/network/Retrofit.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithrufat/userapplication/network/RetrofitService.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithrufat/userapplication/network/models/UserResponse.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithrufat/userapplication/presentation/ui/user_detail/UserDetailActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithrufat/userapplication/presentation/ui/users/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithrufat/userapplication/presentation/ui/users/MainActivityViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithrufat/userapplication/presentation/ui/users/MainAdapter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithrufat/userapplication/repository/MainActivityRepository.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithrufat/userapplication/repository/MainActivityRepository_Impl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithrufat/userapplication/util/Constants.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithrufat/userapplication/util/Converters.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithrufat/userapplication/util/NetworkState.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background_search_box_focusable.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_back.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_person.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_user_detail.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_app_bar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_recycler_user_item.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autocomplete_Suggestion_Location" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BillingApp/.idea/BillingApp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BillingApp/.idea/caches/build_file_checksums.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BillingApp/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BillingApp/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BillingApp/.idea/modules/app/BillingApp.app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BillingApp/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/androidTest/java/com/kivitool/captureimageandresize/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/java/com/kivitool/captureimageandresize/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/java/com/kivitool/captureimageandresize/ViewImageActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/layout/activity_view_image.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/main/res/xml/file_xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/app/src/test/java/com/kivitool/captureimageandresize/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptureImageAndResize/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CorouselView" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/androidTest/java/com/kivitool/currencyend/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/java/com/kivitool/currencyend/API/BaseManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/java/com/kivitool/currencyend/API/BaseUrl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/java/com/kivitool/currencyend/API/ManagerAll.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/java/com/kivitool/currencyend/API/RestApiClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/java/com/kivitool/currencyend/API/RestApiInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/java/com/kivitool/currencyend/ApiClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/java/com/kivitool/currencyend/IApi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/java/com/kivitool/currencyend/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/java/com/kivitool/currencyend/models/CurrencyResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/java/com/kivitool/currencyend/models/Rates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/app/src/test/java/com/kivitool/currencyend/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyEnd/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeTask" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternationalCurrencies" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinLearning" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/androidTest/java/com/kivitool/nativead/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/java/com/kivitool/nativead/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/layout/layout_add_attribution.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/app/src/test/java/com/kivitool/nativead/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NativeAd/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/API/ApiKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/API/ApiKeys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/AdapTers/ActivityDailyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/AdapTers/ActivityDailyAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/AdapTers/ActivityHourlyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/AdapTers/ActivityHourlyAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/AdapTers/HourlyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/AdapTers/HourlyAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/AdapTers/WeeklyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/AdapTers/WeeklyAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/AdapTers/WindAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/AdapTers/WindAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/Daily/Daily.java" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/Daily/Daily.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/DrawerLayoutItems/Backgrounds.java" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/DrawerLayoutItems/Backgrounds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/Home/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/Home/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/Hourly/Hourly.java" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/Hourly/Hourly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/IntroScreen/IntroActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/IntroScreen/IntroActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/UTILS/SetupBackgrounds.java" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/UTILS/SetupBackgrounds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/WIDGETS/CurrentDailyWidget.java" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/WIDGETS/CurrentDailyWidget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/WIDGETS/CurrentWidget.java" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/WIDGETS/CurrentWidget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/WINDS/Wind.java" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/java/com/kivitool/owcpremium/WINDS/Wind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/drawer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/drawer.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/splash_back_drawable.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/splash_back_drawable.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/weather_premium_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/weatherlogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/weatherlogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/drawable/widgets.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/activity_about_the_application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/activity_about_the_application.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/activity_backgrounds.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/activity_backgrounds.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/activity_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/activity_splash.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/current_daily_widget.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/current_daily_widget.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/current_widget.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/current_widget.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/header_for_drawer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/header_for_drawer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/sunrise_sunset_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/layout/sunrise_sunset_view.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/menu/drawer_layout_items.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/menu/drawer_layout_items.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values-az/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values-az/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values-de/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values-de/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values-it/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values-it/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values-ru/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values-ru/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values-tr/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values-tr/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values-vi/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values-vi/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values-zh/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values-zh/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values/attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values/attrs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OWCPREMIUM/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/OWCPREMIUM/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnBoardingScreen" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/androidTest/java/com/kivitool/roomdatabasetutorial/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/java/com/kivitool/roomdatabasetutorial/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/java/com/kivitool/roomdatabasetutorial/MainActivityViewModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/java/com/kivitool/roomdatabasetutorial/UsersRecyclerView.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/java/com/kivitool/roomdatabasetutorial/datas/db/User.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/java/com/kivitool/roomdatabasetutorial/datas/db/UserDao.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/java/com/kivitool/roomdatabasetutorial/datas/db/UserRoomDatabase.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/drawable/ic_delete.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/layout/layout_for_recyler_view.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/app/src/test/java/com/kivitool/roomdatabasetutorial/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RoomDatabaseTutorial/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/androidTest/java/com/kivitool/spinner/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/java/com/kivitool/spinner/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/menu/menu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/app/src/test/java/com/kivitool/spinner/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinner/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/androidTest/java/com/example/suggestionsearch/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/java/com/example/suggestionsearch/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/app/src/test/java/com/example/suggestionsearch/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuggestionSearch/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taxi" beforeDir="false" afterPath="$PROJECT_DIR$/Taxi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taxi/app/src/main/java/com/codingwithrufat/taxi/registration/RegisterActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Taxi/app/src/main/java/com/codingwithrufat/taxi/registration/RegisterActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/androidTest/java/com/kivitool/weatherradar/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/java/com/kivitool/weatherradar/Format.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/java/com/kivitool/weatherradar/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/java/com/kivitool/weatherradar/Station.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/java/com/kivitool/weatherradar/Weather.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/drawable/ic_baseline_system_update_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/drawable/ic_cloud.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/drawable/ic_precipitation.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/drawable/ic_wind.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/layout/app_bar_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/layout/content_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/layout/nav_header_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/app/src/test/java/com/kivitool/weatherradar/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherRadar/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/jetpackcomposeexample/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jetpackcomposeexample/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jetpackcomposeexample/ui/theme/Color.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jetpackcomposeexample/ui/theme/Shape.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jetpackcomposeexample/ui/theme/Theme.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jetpackcomposeexample/ui/theme/Type.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/jetpackcomposeexample/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OWCPREMIUM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/release/OWC_Premium_8.0.14.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/androidTest/java/com/openweatherchannel/premium/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/API/ApiKeys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/API/BaseManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/API/BaseUrl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/API/ManagerAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/API/RestApiClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/API/RestApiInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/AdapTers/ActivityDailyAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/AdapTers/ActivityHourlyAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/AdapTers/ActivityWindAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/AdapTers/HourlyAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/AdapTers/WeeklyAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/AdapTers/WindAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Daily/Daily.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/DataBase/SpinnerDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/DrawerLayoutItems/AboutTheApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/DrawerLayoutItems/AddNewLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/DrawerLayoutItems/ContactUs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/DrawerLayoutItems/MyLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/DrawerLayoutItems/Settings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Home/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Hourly/Hourly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/InitialActivities/SearchActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/InitialActivities/SplashActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/MenuItem/Help.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/Current/Clouds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/Current/Coord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/Current/CurrentResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/Current/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/Current/Sys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/Current/WeatherItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/Current/Wind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/DaysForWind/City.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/DaysForWind/Clouds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/DaysForWind/Coord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/DaysForWind/JsonMember5DaysResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/DaysForWind/ListItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/DaysForWind/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/DaysForWind/Rain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/DaysForWind/Sys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/DaysForWind/WeatherItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/DaysForWind/Wind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/Weekly/Current.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/Weekly/DailyItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/Weekly/FeelsLike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/Weekly/HourlyItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/Weekly/MinutelyItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/Weekly/Temp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/Weekly/WeatherItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Models/Weekly/WeeklyResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/Services/NotificationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/UTILS/CheckInternetConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/UTILS/PreferenceManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/UTILS/SetupLanguagesForAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/WIDGETS/CurrentDailyWidget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/WIDGETS/CurrentWidget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/java/com/openweatherchannel/premium/WINDS/Wind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/anim/fade_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/anim/fade_out.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/anim/splash_text_anim.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/clean_sky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/cloudly.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/current_widget_4_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/daily_widget_4_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/emal_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/gmail_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/gps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/gray_border_all.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/gray_border_bottom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_about.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_add.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_baseline_search_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_contact_mail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_daily.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_dehaze.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_delete.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_email.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_gps.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_help.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_hourly.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_humidity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_info_mail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_location.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_my_location.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_premium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_refresh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ic_share.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/icon03d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/icon_01d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/icon_01n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/icon_02d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/icon_02n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/icon_04n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/icon_10d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/icon_10n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/icon_11d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/icon_11n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/icon_13n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/icon_50d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/icon_9d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/mist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/ne.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/nw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/rainy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/rounded_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/rounded_background_for_widget.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/se.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/settings_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/snowy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/splash_back_drawable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/sun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/sunny_and_cloudy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/sw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/temprature_dialog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/thunderstorm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/weather_premium_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/drawable-v24/weatherlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/font/cabin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/font/shadow.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/activity_about_the_application.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/activity_add_new_location.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/activity_contact_us.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/activity_daily.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/activity_help.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/activity_hourly.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/activity_my_location.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/activity_search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/activity_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/activity_splash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/activity_wind.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/current_daily_widget.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/current_widget.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/header_for_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_bottom_navigation_viewex.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_current_forecast_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_daily_forecast_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_daily_forecast_for_recycler_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_daily_forecast_recycle_for_widget.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_details_for_activity_daily.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_details_for_activity_hourly.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_details_for_activity_wind.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_dropdown_spinner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_for_spinner_color.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_hourly_forecast_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_hourly_forecast_for_recycler_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_hourly_wind_forecast_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_hourly_wind_forecast_for_recycler_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_languages_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_linechart_for_daily.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_notification.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_unit_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/layout_wind_dilog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/layout/sunrise_sunset_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/menu/bottom_navigation_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/menu/drawer_layout_items.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/menu/on_create_option.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/raw/location.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/raw/splash_weather.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/raw/sun.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/raw/wind_speed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/raw/wind_turbine.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/values-az/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/values-de/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/values-it/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/values-ru/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/values-tr/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/values-vi/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/values-zh/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/values/attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/xml/current_daily_widget_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/main/res/xml/current_widget_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/app/src/test/java/com/openweatherchannel/premium/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenWeatherChannelPremium/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxi" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -551,7 +289,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="true" />
   </component>
   <component name="RecentsManager">
@@ -665,5 +403,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/OWCPREMIUM" />
+      <path value="$PROJECT_DIR$/Taxi" />
+    </ignored-roots>
   </component>
 </project>
