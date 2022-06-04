@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".presentation.ui.users.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include
+            layout="@layout/layout_app_bar"/>
+
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:weightSum="1"
+            android:paddingEnd="5dp"
+            android:background="@drawable/background_search_box_focusable"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:orientation="horizontal">
+
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:layout_weight=".7"
+                android:autofillHints="username"
+                android:inputType="text"
+                android:id="@+id/e_txt_search"
+                android:hint="@string/search_a_user"
+                android:paddingStart="10dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"/>
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_weight=".3"
+                android:layout_height="match_parent"
+                android:text="@string/search"
+                android:textColor="@color/white"
+                android:textAllCaps="false"
+                android:id="@+id/btn_search"/>
+
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:id="@+id/usersRecyclerView"/>
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:id="@+id/progress_bar"/>
+
+</RelativeLayout>

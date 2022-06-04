@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">JetpackComposeExample</string>
+    <string name="app_name">UserApplication</string>
+    <string name="search_a_user">Search a user…</string>
+    <string name="search">Search</string>
+    <string name="username">Username:</string>
+    <string name="reputation">Reputation:</string>
+    <string name="location">Location:</string>
+    <string name="badges">Badges:</string>
+    <string name="creation_date">Creation Date:</string>
+    <string name="user">User</string>
+    <string name="profileimage">ProfileImage</string>
+    <string name="backicon">BackIcon</string>
 </resources>

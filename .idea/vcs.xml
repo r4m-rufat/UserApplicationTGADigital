@@ -2,16 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Autocomplete_Suggestion_Location" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Calculator" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CorouselView" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CorouselView/Carousel" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/HomeTask" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/InternationalCurrencies" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/KotlinLearning" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OWCPREMIUM" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/OnBoardingScreen" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Taxi" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ToDo" vcs="Git" />
   </component>
 </project>
