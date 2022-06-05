@@ -20,5 +20,5 @@ In this page there is some detailed information about a user which clicked in Ma
 
 # Warning 
 1. User age doesn't exist in api.
-2. User detail api doesn't exist this's why I haven't used any api request User Detail page. All of user detail data passes to another activity with intent. 
-3. I think that UI and UX is second plan in this test that's why ui/ux is not wonderful. 
+2. User detail api doesn't exist this's why I haven't used any api request in User Detail page. All of user detail data passes to another activity with intent. 
+3. I think that UI and UX is second plan in this test task that's why ui/ux is not wonderful. 
